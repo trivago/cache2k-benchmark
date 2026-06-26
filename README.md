@@ -1,5 +1,10 @@
 # Benchmarks for cache2k
 
+
+> [!CAUTION]
+> This repository has been archived as of June 2026.  
+> If you wish to update or extend this project, please create a fork.
+
 This is a benchmark package for cache2k, but also contains general useful utilities for
 general benchmarking and experimenting with caches.
 
